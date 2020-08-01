@@ -1,0 +1,48 @@
+body{
+	        margin:0;
+			background:white;
+			text-align:center;
+font-family: 'Handlee', cursive;
+background="back.jpg";
+		}
+		h2{
+		font-family: 'Handlee', cursive;
+		}
+		h1{
+			color: black;
+			font-family: 'Handlee', cursive;
+		}
+		h3{
+			color:black;
+font-family: 'Handlee', cursive;
+		}
+
+
+
+
+
+.container1:hover .img1{
+    opacity: 0.5;
+
+}
+.container2:hover .img2{
+    opacity: 0.5;
+
+}
+.container1,.container2
+{
+	display: inline;
+
+}
+.containerp:hover .pho{
+	opacity: 0.5;
+}
+.containerj:hover .jav{
+	opacity: 0.5;
+}
+.containers:hover .sony{
+	opacity: 0.5;
+}
+.containerc:hover .con{
+	opacity: 0.5;
+}
